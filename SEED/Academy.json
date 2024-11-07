@@ -31,6 +31,10 @@
     {
       "task": "#8 On-chain vs Off-chain",
       "keyword": "TRANSACTION"
+    },
+    {
+      "task": "#9 CEX vs DEX",
+      "keyword": "OKXEED "
     }
   ]
 }
