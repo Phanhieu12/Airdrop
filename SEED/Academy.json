@@ -1,35 +1,35 @@
 {
   "tasks": [
     {
-      "task": "Learn Blockchain in 3 mins #1",
+      "task": "#1 Learn Blockchain in 3 mins",
       "keyword": "Blockchain"
     },
     {
-      "task": "Crypto vs Blockchain #2",
+      "task": "#2 Crypto vs Blockchain",
       "keyword": "cryptocurrency"
     },
     {
-      "task": "Hot vs Cold Wallet #3",
+      "task": "#3 Hot vs Cold Wallet",
       "keyword": "Wallet"
     },
     {
-      "task": "What is Airdrop? #4",
+      "task": "#4 What is Airdrop?",
       "keyword": "Airdrop"
     },
     {
-      "task": "Coin vs Token #5",
+      "task": "#5 Coin vs Token",
       "keyword": "Tokens"
     },
     {
-      "task": "What is TON? #6",
+      "task": "#6 What is TON?",
       "keyword": "Ton"
     },
     {
-      "task": "News affecting BTC price #7",
+      "task": "#7 News affecting BTC price",
       "keyword": "BTCTOTHEMOON"
     },
     {
-      "task": "On-chain vs Off-chain #8",
+      "task": "#8 On-chain vs Off-chain",
       "keyword": "TRANSACTION"
     }
   ]
