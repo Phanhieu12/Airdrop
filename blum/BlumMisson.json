@@ -115,7 +115,7 @@
     {
       "task": "Pumptober Special",
       "keyword": "PUMPIT"
-     },
+    },
     {
       "task": "DeFi Risks: Key Insights",
       "keyword": "BLUMHELPS"
@@ -125,23 +125,23 @@
       "keyword": "FOMOOO"
     },
     {
-      "Choosing a Crypto Exchange",
+      "task": "Choosing a Crypto Exchange",
       "keyword": "CRYPTOZONE"
     },
     {
-      "Node Sales in Crypto",
+      "task": "Node Sales in Crypto",
       "keyword": "BLUMIFY"
     },
     {
-      "What's Crypto DEX?",
-      "keyword": "  DEXXX"
+      "task": "What's Crypto DEX?",
+      "keyword": "DEXXX"
     },
     {
-      "Understanding Gas Fees",
+      "task": "Understanding Gas Fees",
       "keyword": "CRYPTOGAS"
     },
     {
-      "What is Slippage?",
+      "task": "What is Slippage?",
       "keyword": "CRYPTOBUZZ"
     }
   ]
