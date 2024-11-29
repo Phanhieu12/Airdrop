@@ -59,6 +59,18 @@
     {
       "task": "#15 What is Tokenomics? ",
       "keyword": "SEEDNOMICS"
+    },
+    {
+     "task": "#16 BTC Price Prediction ",
+      "keyword": "S200KBTC" 
+    },
+    {
+     "task": "#17 What is Listing? ",
+      "keyword": "SEEDTOKEN"  
+    },
+    {
+      "task": "#18 What Affects Token Price? ",
+      "keyword": "POSINEGATIVE"  
     }
   ]
 }
