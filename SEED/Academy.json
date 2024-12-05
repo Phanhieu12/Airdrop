@@ -73,8 +73,11 @@
       "keyword": "POSINEGATIVE"
     },
     {
-    "task": "#19 What is Market Maker?</p>",
+    "task": "#19 What is Market Maker?",
       "keyword": "Wavemaker"  
-    }
+    },
+    {
+    "task": "#21 How to spot a Rug Pull",
+      "keyword": "NOHANDSNORUG"
   ]
 }
